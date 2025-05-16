@@ -51,3 +51,7 @@
 - `ls -R` – Recursively list all subdirectories and files.
 
 - `ls [directory_name]` – View contents of a specific directory (not just the current one).
+
+## The commands that I have used
+
+![Commands used in terminal](commands.png)
